@@ -7,7 +7,7 @@ ORG_LOGO="https://bsslvltrbo.github.io/stroop-stellar/assets/Stroop.png"
 ORG_PHYSICAL_ADDRESS="Spokane, WA"
 ORG_OFFICIAL_EMAIL="help@stroop.io"
 ORG_GITHUB="bsslvltrbo"
-ORG_TWITTER="stroop"
+ORG_TWITTER="Stroop"
 ORG_DESCRIPTION="StRooP can be traded in increments of 0.00001 units.
 This means it’s highly divisible, allowing for microtransactions. Stellar’s
 native asset (XLM) is already known for its focus on small transactions"
@@ -17,12 +17,12 @@ name="Brandon Russell"
 email="bsslvltrbo@stroop.io"
 
 [[CURRENCIES]]
-code="Stroop"
+code="STROOP"
 issuer="GBPJMFCKXHVOBUOW5ML6YUTHEAVIYOAEFHT23XKRIFCFEVGRRQ5AXX6F"
 is_asset_anchored=true
 anchor_asset_type="native"
 anchor_asset="xlm"
 attestation_of_reserve="https://www.stroo.io/stroop-transparency"
-name="Stroop Token"
+name="STROOP TOKEN"
 desc="Stroop is a fully collateralized XLM, based on the Stellar open source framework."
 image="https://bsslvltrbo.github.io/stroop-stellar/assets/Stroop.png"
