@@ -10,4 +10,4 @@ This repository hosts the Stellar TOML file for the Stroop Token.
 ## Token Information
 - **Name**: Stroop Token
 - **Code**: STROOP
-- **Issuer**: SC7UPM35K2P3F4QXGIIFPO24SVZFPMLG53M7C6JJ6XPJYAVL6CSXDVM2
+- **Issuer**: GBPJMFCKXHVOBUOW5ML6YUTHEAVIYOAEFHT23XKRIFCFEVGRRQ5AXX6F
